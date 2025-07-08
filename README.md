@@ -21,3 +21,63 @@ python3 calculator.py
 
 **Improvements can be made with wording**
 
+## 2. Number Guessing Game
+A random number generator that gives you a certain amount of attempts based on the difficulty chosen to guess the correct number
+
+**Features:**
+- Core Game Logic
+- Core Game Logic
+- Random number generation
+- User input validation
+- Attempt tracking
+- Win/lose conditions
+
+✅ Enhanced Features
+- Multiple difficulty levels
+- Hints system
+- Previous guess tracking
+- "Hot/cold" feedback
+- Scoring system
+- Play again option
+
+✅ User Experience
+
+- Clear instructions
+- Emoji feedback
+- Input validation
+- Error handling
+
+Skills Practiced
+- Random module usage
+- While loops and break/continue
+- Exception handling with try/except
+- List operations (tracking guesses)
+- String formatting and user interface
+- Function organization and modularity
+- Game logic and state management
+- User input validation
+- Attempt tracking
+- Win/lose conditions
+
+✅ Enhanced Features
+- Multiple difficulty levels
+- Hints system
+- Previous guess tracking
+- "Hot/cold" feedback
+- Scoring system
+- Play again option
+
+✅ User Experience
+- Clear instructions
+- Emoji feedback
+- Input validation
+- Error handling
+
+Skills Practiced
+- Random module usage
+- While loops and break/continue
+- Exception handling with try/except
+- List operations (tracking guesses)
+- String formatting and user interface
+- Function organization and modularity
+- Game logic and state management
